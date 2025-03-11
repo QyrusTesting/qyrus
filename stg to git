@@ -1,0 +1,1 @@
+{"testSteps":[{"stepNumber":1,"stepDescription":"Launch","userAction":"Launch","identifierType":"","identifierValue":"","index":"","stepData":null,"controlType":"WebElement","dataColumn":"1","property":"text","takeScreenshot":true,"optionalStep":false,"dataViewAttribute":"text","parameterized":false}]}
