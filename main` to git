@@ -1,1 +1,20 @@
-{"testSteps":[{"stepNumber":1,"stepDescription":"LAUNCH","userAction":"Launch","identifierType":"","identifierValue":"","index":"","stepData":null,"controlType":"WebElement","dataColumn":"1","property":"text","takeScreenshot":true,"optionalStep":false,"dataViewAttribute":"text","parameterized":false},{"stepNumber":2,"stepDescription":"Start if Contians","userAction":"Start If","identifierType":"Id","identifierValue":"welcome_message","index":"0","stepData":"Please select an option:","controlType":"Contains","dataColumn":"2","property":"text","takeScreenshot":true,"optionalStep":false,"dataViewAttribute":"text","parameterized":false},{"stepNumber":3,"stepDescription":"Tap on new_user_button","userAction":"Tap","identifierType":"Id","identifierValue":"new_user_button","index":"0","stepData":null,"controlType":"WebElement","dataColumn":"2","property":"text","takeScreenshot":true,"optionalStep":false,"dataViewAttribute":"text","parameterized":false},{"stepNumber":4,"stepDescription":"Tap on androidid/button2","userAction":"Tap","identifierType":"Id","identifierValue":"android:id/button2","index":"0","stepData":null,"controlType":"WebElement","dataColumn":"3","property":"text","takeScreenshot":true,"optionalStep":false,"dataViewAttribute":"text","parameterized":false},{"stepNumber":5,"stepDescription":"Set","userAction":"Set","identifierType":"Id","identifierValue":"username","index":"0","stepData":"QYRUS","controlType":"WebElement","dataColumn":"4","property":"text","takeScreenshot":true,"optionalStep":false,"dataViewAttribute":"text","parameterized":false},{"stepNumber":6,"stepDescription":"Set","userAction":"Set","identifierType":"Id","identifierValue":"password","index":"0","stepData":"password","controlType":"WebElement","dataColumn":"5","property":"text","takeScreenshot":true,"optionalStep":false,"dataViewAttribute":"text","parameterized":false},{"stepNumber":7,"stepDescription":"Tap on login_button","userAction":"Tap","identifierType":"Id","identifierValue":"login_button","index":"0","stepData":null,"controlType":"WebElement","dataColumn":"6","property":"text","takeScreenshot":true,"optionalStep":false,"dataViewAttribute":"text","parameterized":false},{"stepNumber":8,"stepDescription":"End If Login is done","userAction":"End If","identifierType":"Id","identifierValue":"","index":"","stepData":null,"controlType":"WebElement","dataColumn":"8","property":"text","takeScreenshot":true,"optionalStep":false,"dataViewAttribute":"text","parameterized":false}]}
+{
+  "testSteps" : [ {
+    "Step_Number" : 5,
+    "Step_Description" : "verifyotp",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Id",
+    "Locator_Value" : "bh",
+    "User_Action" : "Verify Otp",
+    "Data_Column" : "hello",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "Right Choice ™ Individually Wrapped 2-Ply Bath Tissue is the perfect choice for all your restroom needs. Ideal for tight spaces and small use requirements, the 2-ply embossing provides superior softness and absorbency. The starter trail seal ensures 100% usage, so no waste. Chlorine free.",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Data_View_Type" : "text"
+  } ],
+  "functionSteps" : [ ]
+}
