@@ -1,0 +1,52 @@
+{
+  "testSteps" : [ {
+    "Step_Number" : 1,
+    "Step_Description" : "Launch the URL",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "",
+    "Locator_Value" : "",
+    "User_Action" : "Go to url",
+    "Data_Column" : "1",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "http://www.uitestingplayground.com/click",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : null,
+    "Data_View_Type" : "text"
+  }, {
+    "Step_Number" : 2,
+    "Step_Description" : "Create Variable",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Xpath",
+    "Locator_Value" : "//button[@id='badButton']",
+    "User_Action" : "Create Variable",
+    "Data_Column" : "Click",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : null,
+    "Data_View_Type" : "text"
+  }, {
+    "Step_Number" : 3,
+    "Step_Description" : "Click on Button",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Xpath",
+    "Locator_Value" : "//button[text()='##']",
+    "User_Action" : "Dynamic Click",
+    "Data_Column" : "Click",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : null,
+    "Data_View_Type" : "text"
+  } ],
+  "functionSteps" : [ ]
+}
