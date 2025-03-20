@@ -1,0 +1,20 @@
+{
+  "testSteps" : [ {
+    "Step_Number" : 1,
+    "Step_Description" : "Launch the URL of Google",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "",
+    "Locator_Value" : "",
+    "User_Action" : "Go to url",
+    "Data_Column" : "1",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "https://www.google.com/?safe=active&ssui=on",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Data_View_Type" : "text"
+  } ],
+  "functionSteps" : [ ]
+}
