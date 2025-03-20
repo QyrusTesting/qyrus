@@ -1,0 +1,20 @@
+{
+  "testSteps" : [ {
+    "Step_Number" : 1,
+    "Step_Description" : "ggg",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Lorem ipsum dolor sit ametelitNulla ",
+    "Locator_Value" : "b09517f1-be45-411b-aecb-1ce714214b20",
+    "User_Action" : "Alert Text",
+    "Data_Column" : "1",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "Right Choice ™ Individually Wrapped 2-Ply Bath Tissue is the perfect choice for all your restroom needs. Ideal for tight spaces and small use requirements, the 2-ply embossing provides superior softness and absorbency. The starter trail seal ensures 100% usage, so no waste. Chlorine free.",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Data_View_Type" : "text"
+  } ],
+  "functionSteps" : [ ]
+}
