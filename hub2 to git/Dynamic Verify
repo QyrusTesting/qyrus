@@ -14,6 +14,7 @@
     "Optional_Step_Enabled" : false,
     "Parameterized_Step_Enabled" : false,
     "Shadow_Step_Enabled" : null,
+    "Is_Iterate_Step" : null,
     "Data_View_Type" : "text"
   }, {
     "Step_Number" : 2,
@@ -30,6 +31,7 @@
     "Optional_Step_Enabled" : false,
     "Parameterized_Step_Enabled" : false,
     "Shadow_Step_Enabled" : null,
+    "Is_Iterate_Step" : null,
     "Data_View_Type" : "text"
   }, {
     "Step_Number" : 3,
@@ -46,6 +48,7 @@
     "Optional_Step_Enabled" : false,
     "Parameterized_Step_Enabled" : false,
     "Shadow_Step_Enabled" : null,
+    "Is_Iterate_Step" : null,
     "Data_View_Type" : "text"
   }, {
     "Step_Number" : 4,
@@ -62,6 +65,7 @@
     "Optional_Step_Enabled" : false,
     "Parameterized_Step_Enabled" : false,
     "Shadow_Step_Enabled" : null,
+    "Is_Iterate_Step" : null,
     "Data_View_Type" : "text"
   }, {
     "Step_Number" : 5,
@@ -78,6 +82,7 @@
     "Optional_Step_Enabled" : false,
     "Parameterized_Step_Enabled" : false,
     "Shadow_Step_Enabled" : null,
+    "Is_Iterate_Step" : null,
     "Data_View_Type" : "text"
   }, {
     "Step_Number" : 6,
@@ -94,7 +99,9 @@
     "Optional_Step_Enabled" : false,
     "Parameterized_Step_Enabled" : false,
     "Shadow_Step_Enabled" : null,
+    "Is_Iterate_Step" : null,
     "Data_View_Type" : "text"
   } ],
-  "functionSteps" : [ ]
+  "functionSteps" : [ ],
+  "iterateData" : [ ]
 }
